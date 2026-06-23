@@ -27,4 +27,4 @@ This project is a simple and responsive Login & Registration System developed us
 4. Run the application in a web browser.
 
 ## Author
-Gatla Bhuvanesh
+Bommena Suryateja
